@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanMehvish
-- 👀 I’m interested in Game Development, android app development.
-- 🌱 I’m currently learning Basics of the POP language "C"
-- 💞️ I’m looking to collaborate on Basic projects involving C
+- 👀 I’m interested in web app development and game development.
+- 🌱 I’m currently learning Basics of Data Structures and Algorithms along with JavaScript.
+- 💞️ I’m looking to collaborate on Basic projects involving C++.
 - 📫 How to reach me: hsivhem321@gmail.com
 
 <!---
