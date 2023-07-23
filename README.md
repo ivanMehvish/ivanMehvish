@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanMehvish
 - 👀 I’m interested in web app development and game development.
 - 🌱 I’m currently learning Basics of Data Structures and Algorithms along with JavaScript.
-- 💞️ I’m looking to collaborate on Basic projects involving C++, HTML, CSS and vanilla JS. 
+- 💞️ I’m looking to collaborate on Basic projects involving C++, HTML, TailwindCSS and vanilla JS. 
 - 📫 How to reach me: hsivhem321@gmail.com
 
 <!---
